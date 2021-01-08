@@ -1,2 +1,2 @@
-# c20-21
-algorithm and function
+# p5.play-boilerplate
+Boiler plate for p5.play
